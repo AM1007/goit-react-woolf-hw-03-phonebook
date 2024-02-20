@@ -11,10 +11,6 @@
 
 ## Phonebook
 
-Take your solution from the
-[previous homework assignment](https://github.com/AM1007/goit-react-woolf-hw-02-phonebook)
-and add phonebook contact storage to `localStorage`. Use life cycle methods.
-
-- When you add or remove a contact, the contacts are saved to local storage.
-- When the application loads, the contacts, if any, are read from the local
-  storage and written to the state.
+Refactor the code of the
+[previous task](https://github.com/AM1007/goit-react-woolf-hw-03-phonebook)
+"Phonebook" using React-hooks.
