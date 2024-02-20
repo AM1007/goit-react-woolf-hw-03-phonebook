@@ -12,5 +12,5 @@
 ## Phonebook
 
 Refactor the code of the
-[previous task](https://github.com/AM1007/goit-react-woolf-hw-03-phonebook)
+[previous task](https://github.com/AM1007/goit-react-woolf-hw-02-phonebook)
 "Phonebook" using React-hooks.
