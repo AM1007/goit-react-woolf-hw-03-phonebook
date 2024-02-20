@@ -11,10 +11,6 @@
 
 ## Phonebook
 
-Refactor the code of the
-[previous task](https://github.com/AM1007/goit-react-woolf-hw-02-phonebook)
-"Phonebook" using React-hooks.
-
 Take your solution from the
 [previous task](https://github.com/AM1007/goit-react-woolf-hw-02-phonebook) and
 add phonebook contact storage to localStorage. Use life cycle methods.
